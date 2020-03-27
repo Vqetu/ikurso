@@ -27,4 +27,28 @@ Exemples : *hundo* = **un** chien, *tablo* = **une** table.
 
 L’alphabet de l’espéranto comporte 28 lettres : on retrouve des lettres utilisées en français. Il n’y a pas les lettres Q, W, X et Y, les lettres accentuées ou avec une cédille. 
 En plus de ces lettres, l’espéranto utilise quelques lettres accentuées qui lui sont propres. 
-Pour épeler un mot, les voyelles se prononce par le son qu’elle font, et les consonnes se prononcent en y ajoutant un -o : “S” = So ; “T” = To ; “V” = Vo.
+Pour épeler un mot, les voyelles se prononce par le son qu’elle font, et les consonnes se prononcent en y ajoutant un *-o* : “*S*” = So ; “*T*” = To ; “*V*” = Vo.
+
+
+### Les voyelles sont faciles à prononcer pour un francophone. Voici :
+
+|espéranto|équivalent en français|
+|:--------|:-----------|
+|*a*|a|
+|*e*|entre le é et le è|
+|*i*|i|
+|*o*|o|
+|*u*|ou|
+
+
+### Les lettres C, G, J , S et H
+
+
+|Espéranto|Exemple|Équivalent en français|
+|:--------|:------|:--------|
+|*g*|***g**azeto, **g**itaro*|toujours comme le g de gare (jamais comme le j)|
+|*c*|*la**c**a*|ts, comme dans tsé-tsé|
+|*j*|***j**es*|comme le y de yoga ou le ia de piano ou le ill de pareil, œil, fouille|
+|*s*|*ta**s**o*|toujours ss comme dans tasse (jamais comme un z)|
+|*h*|***h**alo*|la combinaison ha se prononce comme quand on rit : ha !, ha !, ha ! Pareil pour ho : ho !,ho !,ho ! et , hi : hi !,hi !, hi !|
+
