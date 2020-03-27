@@ -52,3 +52,40 @@ Pour épeler un mot, les voyelles se prononce par le son qu’elle font, et les 
 |*s*|*ta**s**o*|toujours ss comme dans tasse (jamais comme un z)|
 |*h*|***h**alo*|la combinaison ha se prononce comme quand on rit : ha !, ha !, ha ! Pareil pour ho : ho !,ho !,ho ! et , hi : hi !,hi !, hi !|
 
+
+### Voici 5 lettres accentuées propres à l’espéranto
+
+
+|espéranto|exemple|équivalent en français|
+|:--------|:------|:-------|
+|*ĉ*|***ĉ**u*|tch, comme dans tchèque|
+|*ĝ*|***ĝ**i*|dj, comme dans adjudant|
+|*ĵ*|*a**ĵ**o*|j comme dans journal|
+|*ŝ*|***ŝ**i*|ch, comme dans chat|
+|*ŭ*|*a**ŭ***|w comme dans watt|
+
+
+### Le clavier espéranto
+
+Pour taper facilement en espéranto en utilisant les lettres accentuées, vous pouvez installer une nouvelle configuration de clavier. Vous trouverez dans le forum les instructions vous permettant d’installer un clavier espéranto sur votre ordinateur, votre tablette ou votre téléphone :
+[Comment écrire en espéranto.](https://ikurso.esperanto-france.org/helpo.php?section=kielskribi)
+
+
+### Que faire pour suivre le cours sans installer le clavier espéranto ? 
+
+Duolingo reconnaît le système en -x : c’est une méthode alternative permettant de saisir les lettres accentuées de l’espéranto. Il suffit de taper un x après la lettre que vous souhaitez accentuer.
+
+
+|système en -x (ce que vous tapez)|lettre affichée|
+|:---|:---|
+|cx|*ĉ*|
+|gx|*ĝ*|
+|hx|*ĥ*|
+|jx|*ĵ*|
+|sx|*ŝ*|
+|ux|*ŭ*|
+
+
+Exemple : vous tapez *sxangxo* au lieu de *ŝanĝo*.
+
+Remarque : Duolingo ne convertit pas les caractères accentués que vous tapez, mais les traite comme si vous aviez tapé directement les lettres accentuées.
