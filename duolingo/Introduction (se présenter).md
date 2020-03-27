@@ -86,6 +86,6 @@ Duolingo reconnaît le système en -x : c’est une méthode alternative permett
 |ux|*ŭ*|
 
 
-Exemple : vous tapez *sxangxo* au lieu de *ŝanĝo*.
+**Exemple** : vous tapez *sxangxo* au lieu de *ŝanĝo*.
 
 Remarque : Duolingo ne convertit pas les caractères accentués que vous tapez, mais les traite comme si vous aviez tapé directement les lettres accentuées.
